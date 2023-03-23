@@ -10,7 +10,7 @@ const pool = new pg.Pool({
     user: 'postgres',
     host: 'localhost',
     database: 'pessoas',
-    password: 'Eduhej0123.',
+    password: '123.',
     port: 5432,
 });
 
